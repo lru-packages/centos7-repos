@@ -271,9 +271,16 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
-[direct-centos7-custom]
-name=direct-centos7-custom
+[direct-centos7-custom-el7]
+name=direct-centos7-custom-el7
 baseurl=https://lru-packages.s3-us-west-2.amazonaws.com/repo/el7/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
+[direct-centos7-custom-nodist]
+name=direct-centos7-custom-nodist
+baseurl=https://lru-packages.s3-us-west-2.amazonaws.com/repo/nodist/x86_64/
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
