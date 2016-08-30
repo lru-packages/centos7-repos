@@ -7,7 +7,7 @@ In our case, we run CentOS. These are our criteria for determining whether or no
 1. Packages are maintained by CentOS/RedHat directly.
 2. Packages are maintained by the vendor of the software directly.
 3. Packages are maintained by a reputable third-party source (as few of these as possible).
-4. Packages are maintained by us. That is, we compile them from source ourselves.
+4. Packages are maintained by us. That is, [we compile them from source ourselves](https://github.com/lru-packages).
 
 Your criteria may look different. If you don't have criteria, and generally just install software from anywhere, I have two pieces of advice.
 
