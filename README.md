@@ -69,7 +69,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 
 ### Which Packages?
 
-I haven't yet released my build/compilation scripts for these packages yet, but I plan to soon. In the meantime, these are the packages you'll find in the Lucky Rocketship Underpants repos. I generally try to stay on top of updates, and will keep old versions around for some time as to not break your provisioning scripts which grab specific versions.
+I haven't yet released my [build/compilation scripts for these packages](https://github.com/lru-packages) yet, but I plan to soon. In the meantime, these are the packages you'll find in the Lucky Rocketship Underpants repos. I generally try to stay on top of updates, and will keep old versions around for some time as to not break your provisioning scripts which grab specific versions.
 
 **All** packages are built against CentOS 7 x86_64.
 
