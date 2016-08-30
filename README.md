@@ -81,7 +81,7 @@ I haven't yet released my build/compilation scripts for these packages yet, but 
 * [Hashicorp Consul](https://www.consul.io) 0.6.3
 * [Hashicorp Vault](https://www.vaultproject.io) 0.6.0
 * [jq](https://stedolan.github.io/jq/) 1.5
-* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u102
+* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u102 + the unlimited crypto package
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
 * [Ruby](https://www.ruby-lang.org/) 2.3.1
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
