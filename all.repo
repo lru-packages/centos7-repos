@@ -166,6 +166,13 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-nginx-mainline]
+name=direct-centos7-nginx-mainline
+baseurl=http://nginx.org/packages/mainline/centos/7/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-nodesource]
 name=direct-centos7-nodesource
 baseurl=https://rpm.nodesource.com/pub_0.12/el/7/x86_64/
