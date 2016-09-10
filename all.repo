@@ -12,7 +12,7 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
-[direct-centos-logstash]m
+[direct-centos-logstash]
 name=direct-centos-logstash
 baseurl=http://packages.elastic.co/logstash/2.1/centos/
 gpgcheck=0
