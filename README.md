@@ -69,19 +69,22 @@ Your criteria may look different. If you don't have criteria, and generally just
 
 ### Which Packages?
 
-I haven't yet released my [build/compilation scripts for these packages](https://github.com/lru-packages) yet, but I plan to soon. In the meantime, these are the packages you'll find in the Lucky Rocketship Underpants repos. I generally try to stay on top of updates, and will keep old versions around for some time as to not break your provisioning scripts which grab specific versions.
+[Build scripts for these packages](https://github.com/lru-packages) are available for inspection. In the meantime, these are the packages you'll find in the Lucky Rocketship Underpants repos. I generally try to stay on top of updates, and will keep old versions around for some time as to not break your provisioning scripts which grab specific versions.
 
 **All** packages are built against CentOS 7 x86_64.
 
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.3
-* [Git](https://git-scm.com) 2.9.2
-* [Golang](https://golang.org) 1.7.0
-* [Hashicorp Consul](https://www.consul.io) 0.6.3
-* [Hashicorp Vault](https://www.vaultproject.io) 0.6.0
+* [Git](https://git-scm.com) 2.10.1
+* [Golang](https://golang.org) 1.7.2
+* [Hashicorp Consul](https://www.consul.io) 0.7.0
+* [Hashicorp Terraform](https://www.terraform.io) 0.7.7
+* [Hashicorp Vault](https://www.vaultproject.io) 0.6.2
+* [HHVM](http://hhvm.com) 3.15.2
+* [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
-* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u102 + the unlimited crypto package
+* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
 * [Ruby](https://www.ruby-lang.org/) 2.3.1
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
