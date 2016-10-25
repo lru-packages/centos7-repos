@@ -81,7 +81,7 @@ yum list | grep -i direct-centos7-custom
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.3
 * [Git](https://git-scm.com) 2.10.1
-* [Golang](https://golang.org) 1.7.2
+* [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
 * [Hashicorp Terraform](https://www.terraform.io) 0.7.7
 * [Hashicorp Vault](https://www.vaultproject.io) 0.6.2
