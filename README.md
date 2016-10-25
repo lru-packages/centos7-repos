@@ -80,6 +80,7 @@ yum list | grep -i direct-centos7-custom
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.3
+* [cmark](https://github.com/jgm/cmark) 0.26.1
 * [Git](https://git-scm.com) 2.10.1
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
