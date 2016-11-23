@@ -194,6 +194,13 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-nodesource7]
+name=direct-centos7-nodesource7
+baseurl=https://rpm.nodesource.com/pub_7.x/el/7/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-openstack]
 name=direct-centos7-openstack
 baseurl=http://mirror.centos.org/centos-7/7/cloud/x86_64/openstack-liberty/
