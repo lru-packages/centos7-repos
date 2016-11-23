@@ -61,6 +61,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 * [Nodesource (4.x)](https://rpm.nodesource.com/pub_4.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 * [Nodesource (5.x)](https://rpm.nodesource.com/pub_5.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 * [Nodesource (6.x)](https://rpm.nodesource.com/pub_6.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
+* [Nodesource (7.x)](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 
 ## Custom-built package repos
 
@@ -84,15 +85,15 @@ yum list | grep -i direct-centos7-custom
 * [Git](https://git-scm.com) 2.10.1
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
-* [Hashicorp Terraform](https://www.terraform.io) 0.7.7
-* [Hashicorp Vault](https://www.vaultproject.io) 0.6.2
-* [HHVM](http://hhvm.com) 3.15.2
+* [Hashicorp Terraform](https://www.terraform.io) 0.7.12
+* [Hashicorp Vault](https://www.vaultproject.io) 0.6.3
+* [HHVM](http://hhvm.com) 3.15.3
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.17.2
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
-* [Ruby](https://www.ruby-lang.org/) 2.3.1
+* [Ruby](https://www.ruby-lang.org/) 2.3.3
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
 * [Square Certstrap](https://github.com/square/certstrap) 1.0.1
 * [Statsite](http://armon.github.io/statsite/) 0.7.1
