@@ -81,12 +81,14 @@ yum list | grep -i direct-centos7-custom
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.3
-* [cmark](https://github.com/jgm/cmark) 0.26.1
+* [cmark](https://github.com/jgm/cmark) 0.27.1
+* [Docker Compose](https://www.docker.com/products/docker-compose) 1.8.1
 * [Git](https://git-scm.com) 2.10.1
+* [GitHub Hub](https://hub.github.com) 2.2.9
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
 * [Hashicorp Terraform](https://www.terraform.io) 0.7.12
-* [Hashicorp Vault](https://www.vaultproject.io) 0.6.3
+* [Hashicorp Vault](https://www.vaultproject.io) 0.6.2
 * [HHVM](http://hhvm.com) 3.15.3
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
