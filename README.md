@@ -83,7 +83,7 @@ yum list | grep -i direct-centos7-custom
 * [Chag](https://github.com/mtdowling/chag) 1.1.3
 * [cmark](https://github.com/jgm/cmark) 0.27.1
 * [Docker Compose](https://www.docker.com/products/docker-compose) 1.8.1
-* [Git](https://git-scm.com) 2.10.1
+* [Git](https://git-scm.com) 2.11.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
@@ -93,7 +93,7 @@ yum list | grep -i direct-centos7-custom
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
-* [Pandoc](http://pandoc.org) 1.17.2
+* [Pandoc](http://pandoc.org) 1.19
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
 * [Ruby](https://www.ruby-lang.org/) 2.3.3
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
