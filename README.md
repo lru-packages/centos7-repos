@@ -88,13 +88,13 @@ yum list | grep -i direct-centos7-custom
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
 * [Hashicorp Terraform](https://www.terraform.io) 0.7.13
-* [Hashicorp Vault](https://www.vaultproject.io) 0.6.2
+* [Hashicorp Vault](https://www.vaultproject.io) 0.6.3
 * [HHVM](http://hhvm.com) 3.15.3
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
-* [Pandoc](http://pandoc.org) 1.19
+* [Pandoc](http://pandoc.org) 1.19.1
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
 * [Ruby](https://www.ruby-lang.org/) 2.3.3
