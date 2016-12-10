@@ -95,6 +95,7 @@ yum list | grep -i direct-centos7-custom
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.19
+* [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
 * [Python](https://www.python.org) 2.7.12 and 3.5.2
 * [Ruby](https://www.ruby-lang.org/) 2.3.3
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
