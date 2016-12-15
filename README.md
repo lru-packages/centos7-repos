@@ -49,6 +49,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 * [MySQL Tools](https://repo.mysql.com/yum/mysql-tools-community/el/7/x86_64/)
 * [New Relic](https://yum.newrelic.com/pub/newrelic/el5/x86_64/)
 * [Nginx](http://nginx.org/packages/centos/7/x86_64/)
+* [PostgreSQL 9.6](https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64)
 * [Rsyslog](http://rpms.adiscon.com/v8-stable/epel-7/x86_64/)
 * [Sensu monitoring](http://repositories.sensuapp.org/yum/7/x86_64/)
 * [VirtualBox](http://download.virtualbox.org/virtualbox/rpm/rhel/7/x86_64/)
