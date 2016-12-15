@@ -41,7 +41,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 * [Git-LFS](https://packagecloud.io/github/git-lfs/el/7/x86_64)
 * [Google Stackdriver](http://repo.stackdriver.com/repo/el7/x86_64/)
 * [Grafana](https://packagecloud.io/grafana/stable/el/7/x86_64)
-* [Mongo DB](https://repo.mongodb.org/yum/redhat/7/mongodb-org/stable/x86_64/)
+* [Mongo DB](https://repo.mongodb.org/yum/redhat/7/mongodb-org/3.3/x86_64/)
 * [MySQL 5.5](https://repo.mysql.com/yum/mysql-5.5-community/el/7/x86_64/)
 * [MySQL 5.6](https://repo.mysql.com/yum/mysql-5.6-community/el/7/x86_64/)
 * [MySQL 5.7](https://repo.mysql.com/yum/mysql-5.7-community/el/7/x86_64/)
@@ -57,16 +57,12 @@ Your criteria may look different. If you don't have criteria, and generally just
 
 * [Cityfan](http://www.city-fan.org/ftp/contrib/yum-repo/rhel7/x86_64/) — The least trusted of the bunch. Provides modern cURL packages. (cURL didn't receive support for TLS 1.1/1.2 until version 7.34.0. CentOS 6 ships with 7.19.0. CentOS 7 ships with 7.29.0.)
 * [Remi](http://mirrors.mediatemple.net/remi/enterprise/7/remi/x86_64/) — _Remi_ is a member of the RedHat SCL group. He packages modern PHP builds for RedHat/CentOS.
-* [Nodesource (0.12)](https://rpm.nodesource.com/pub_0.12/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
-* [Nodesource (4.x)](https://rpm.nodesource.com/pub_4.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
-* [Nodesource (5.x)](https://rpm.nodesource.com/pub_5.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
-* [Nodesource (6.x)](https://rpm.nodesource.com/pub_6.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
-* [Nodesource (7.x)](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
+* [Nodesource 0.12](https://rpm.nodesource.com/pub_0.12/el/7/x86_64/), [4.x](https://rpm.nodesource.com/pub_4.x/el/7/x86_64/), [5.x](https://rpm.nodesource.com/pub_5.x/el/7/x86_64/), [6.x](https://rpm.nodesource.com/pub_6.x/el/7/x86_64/), [7.x](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 
 ## Custom-built package repos
 
-* [Lucky Rocketship Underpants: el7](https://lru-packages.s3-us-west-2.amazonaws.com/repo/el7/x86_64/)
-* [Lucky Rocketship Underpants: nodist](https://lru-packages.s3-us-west-2.amazonaws.com/repo/nodist/x86_64/)
+* [Custom-built packages: el7](https://github.com/lru-packages)
+* [Custom-built packages: nodist](https://github.com/lru-packages)
 
 ### Which Packages?
 
