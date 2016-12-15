@@ -236,6 +236,20 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-postgres96]
+name=direct-centos7-postgres96
+baseurl=https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
+[direct-centos7-postgres96-testing]
+name=direct-centos7-postgres96-testing
+baseurl=https://download.postgresql.org/pub/repos/yum/testing/9.6/redhat/rhel-7-x86_64
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-remi]
 name=direct-centos7-remi
 baseurl=http://mirrors.mediatemple.net/remi/enterprise/7/remi/x86_64/
