@@ -110,6 +110,13 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-mongodb]
+name=direct-centos7-mongodb
+baseurl=https://repo.mongodb.org/yum/redhat/7/mongodb-org/3.3/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-mysql55]
 name=direct-centos7-mysql55
 baseurl=https://repo.mysql.com/yum/mysql-5.5-community/el/7/x86_64/
