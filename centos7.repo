@@ -159,6 +159,13 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-newrelic-infrastructure]
+name=direct-centos7-newrelic-infrastructure
+baseurl=http://download.newrelic.com/infrastructure_agent/linux/yum/el/7/x86_64
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-nginx]
 name=direct-centos7-nginx
 baseurl=http://nginx.org/packages/centos/7/x86_64/
