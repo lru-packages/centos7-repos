@@ -77,16 +77,17 @@ yum list | grep -i direct-centos7-custom
 
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
-* [Chag](https://github.com/mtdowling/chag) 1.1.3
+* [Chag](https://github.com/mtdowling/chag) 1.1.4
+* [CMake](https://github.com/Kitware/CMake) 3.7.1
 * [cmark](https://github.com/jgm/cmark) 0.27.1
-* [Docker Compose](https://www.docker.com/products/docker-compose) 1.8.1
+* [Docker Compose](https://www.docker.com/products/docker-compose) 1.9.0
 * [Git](https://git-scm.com) 2.11.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [Golang](https://golang.org) 1.7.3
 * [Hashicorp Consul](https://www.consul.io) 0.7.0
-* [Hashicorp Terraform](https://www.terraform.io) 0.7.13
-* [Hashicorp Vault](https://www.vaultproject.io) 0.6.3
-* [HHVM](http://hhvm.com) 3.15.3
+* [Hashicorp Terraform](https://www.terraform.io) 0.8.3
+* [Hashicorp Vault](https://www.vaultproject.io) 0.6.4
+* [HHVM](http://hhvm.com) 3.15.4
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
 * [Ninja Build](https://ninja-build.org) 1.7.2
@@ -94,8 +95,8 @@ yum list | grep -i direct-centos7-custom
 * [Pandoc](http://pandoc.org) 1.19.1
 * [Packer](https://packer.io) 0.12.1
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
-* [Python](https://www.python.org) 2.7.12 and 3.5.2
-* [Ruby](https://www.ruby-lang.org/) 2.3.3
+* [Python](https://www.python.org) 2.7.13 and 3.6.0
+* [Ruby](https://www.ruby-lang.org/) 2.4.0
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
 * [Square Certstrap](https://github.com/square/certstrap) 1.0.1
 * [Statsite](http://armon.github.io/statsite/) 0.7.1
