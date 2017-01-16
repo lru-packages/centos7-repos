@@ -306,6 +306,13 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-yarn]
+name=direct-centos7-yarn
+baseurl=https://dl.yarnpkg.com/rpm/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-custom-el7]
 name=direct-centos7-custom-el7
 baseurl=https://lru-packages.s3-us-west-2.amazonaws.com/repo/el7/x86_64/
