@@ -53,6 +53,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 * [Rsyslog](http://rpms.adiscon.com/v8-stable/epel-7/x86_64/)
 * [Sensu monitoring](http://repositories.sensuapp.org/yum/7/x86_64/)
 * [VirtualBox](http://download.virtualbox.org/virtualbox/rpm/rhel/7/x86_64/)
+* [Yarn](https://dl.yarnpkg.com/rpm/)
 
 ## Trusted third-party repos
 
