@@ -90,6 +90,7 @@ yum list | grep -i direct-centos7-custom
 * [HHVM](http://hhvm.com) 3.15.4
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
+* [LLVM](http://www.llvm.org) 3.9.1
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.19.1
