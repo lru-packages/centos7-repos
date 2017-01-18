@@ -79,9 +79,9 @@ yum list | grep -i direct-centos7-custom
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.4
-* [CMake](https://github.com/Kitware/CMake) 3.7.1
+* [CMake](https://github.com/Kitware/CMake) 3.7.2
 * [cmark](https://github.com/jgm/cmark) 0.27.1
-* [Docker Compose](https://www.docker.com/products/docker-compose) 1.9.0
+* [Docker Compose](https://www.docker.com/products/docker-compose) 1.10.0
 * [Git](https://git-scm.com) 2.11.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [Golang](https://golang.org) 1.7.3
@@ -91,9 +91,9 @@ yum list | grep -i direct-centos7-custom
 * [HHVM](http://hhvm.com) 3.15.4
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [jq](https://stedolan.github.io/jq/) 1.5
-* [LLVM + Clang](http://www.llvm.org) 3.9.1
+* [LLVM, Clang, LLDB, LLD](http://www.llvm.org) 3.9.1
 * [Ninja Build](https://ninja-build.org) 1.7.2
-* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u112 + the unlimited crypto package
+* [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u121 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.19.1
 * [Packer](https://packer.io) 0.12.1
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
