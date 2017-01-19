@@ -101,5 +101,6 @@ yum list | grep -i direct-centos7-custom
 * [Python](https://www.python.org) 2.7.13 and 3.6.0
 * [Ruby](https://www.ruby-lang.org/) 2.4.0
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
+* [Siege](https://github.com/JoeDog/siege) 4.0.0
 * [Square Certstrap](https://github.com/square/certstrap) 1.0.1
 * [Statsite](http://armon.github.io/statsite/) 0.7.1
