@@ -97,6 +97,7 @@ yum list | grep -i direct-centos7-custom
 * [Pandoc](http://pandoc.org) 1.19.1
 * [Packer](https://packer.io) 0.12.1
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
+* [PlantUML](http://plantuml.com) 8053
 * [Python](https://www.python.org) 2.7.13 and 3.6.0
 * [Ruby](https://www.ruby-lang.org/) 2.4.0
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
