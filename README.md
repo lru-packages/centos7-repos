@@ -108,3 +108,4 @@ yum list | grep -i direct-centos7-custom | sort
 * [sift](https://sift-tool.org) 0.9.0
 * [Square Certstrap](https://github.com/square/certstrap) 1.0.1
 * [Statsite](http://armon.github.io/statsite/) 0.7.1
+* [TextQL](https://github.com/dinedal/textql) 2.0.3
