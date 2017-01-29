@@ -73,7 +73,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 **All** packages are built against CentOS 7 x86_64.
 
 ```bash
-yum list | grep -i direct-centos7-custom
+yum list | grep -i direct-centos7-custom | sort
 ```
 
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
