@@ -85,6 +85,7 @@ yum list | grep -i direct-centos7-custom
 * [GCC](http://gcc.gnu.org) 6.3.0
 * [Git](https://git-scm.com) 2.11.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
+* [GitQL](https://github.com/cloudson/gitql) 1.3.0
 * [Golang](https://golang.org) 1.7.5
 * [Hashicorp Consul](https://www.consul.io) 0.7.3
 * [Hashicorp Terraform](https://www.terraform.io) 0.8.5
