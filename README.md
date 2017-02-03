@@ -81,7 +81,7 @@ yum list | grep -i direct-centos7-custom | sort
 * [Chag](https://github.com/mtdowling/chag) 1.1.4
 * [CMake](https://github.com/Kitware/CMake) 3.7.2
 * [cmark](https://github.com/jgm/cmark) 0.27.1
-* [Docker Compose](https://www.docker.com/products/docker-compose) 1.10.0
+* [Docker Compose](https://www.docker.com/products/docker-compose) 1.10.1
 * [GCC](http://gcc.gnu.org) 6.3.0
 * [Git](https://git-scm.com) 2.11.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
@@ -97,7 +97,7 @@ yum list | grep -i direct-centos7-custom | sort
 * [LLVM, Clang, LLDB, LLD](http://www.llvm.org) 3.9.1
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u121 + the unlimited crypto package
-* [Pandoc](http://pandoc.org) 1.19.1
+* [Pandoc](http://pandoc.org) 1.19.2.1
 * [Packer](https://packer.io) 0.12.2
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
 * [PlantUML](http://plantuml.com) 8054
