@@ -83,7 +83,7 @@ yum list | grep -i direct-centos7-custom | sort
 * [cmark](https://github.com/jgm/cmark) 0.27.1
 * [Docker Compose](https://www.docker.com/products/docker-compose) 1.10.1
 * [GCC](http://gcc.gnu.org) 6.3.0
-* [Git](https://git-scm.com) 2.11.0
+* [Git](https://git-scm.com) 2.11.1
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [GitQL](https://github.com/cloudson/gitql) 1.3.0
 * [Golang](https://golang.org) 1.7.5
