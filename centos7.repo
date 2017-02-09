@@ -19,6 +19,14 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos-keybase]
+name=direct-centos-keybase
+baseurl=http://prerelease.keybase.io/rpm/x86_64/
+gpgkey=https://keybase.io/docs/server_security/code_signing_key.asc
+gpgcheck=1
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-cityfan]
 name=direct-centos7-cityfan
 baseurl=http://www.city-fan.org/ftp/contrib/yum-repo/rhel7/x86_64/
