@@ -1,21 +1,24 @@
 [direct-centos-elasticbeats]
 name=direct-centos-elasticbeats
 baseurl=https://packages.elastic.co/beats/yum/el/x86_64/
-gpgcheck=0
+gpgkey=https://packages.elastic.co/GPG-KEY-elasticsearch-v3
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
 [direct-centos-elasticsearch]
 name=direct-centos-elasticsearch
 baseurl=http://packages.elastic.co/elasticsearch/2.x/centos/
-gpgcheck=0
+gpgkey=https://packages.elastic.co/GPG-KEY-elasticsearch-v3
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
 [direct-centos-logstash]
 name=direct-centos-logstash
 baseurl=http://packages.elastic.co/logstash/2.1/centos/
-gpgcheck=0
+gpgkey=https://packages.elastic.co/GPG-KEY-elasticsearch-v3
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
