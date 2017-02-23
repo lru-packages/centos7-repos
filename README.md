@@ -81,12 +81,12 @@ yum list | grep -i direct-centos7-custom | sort
 * [Chag](https://github.com/mtdowling/chag) 1.1.4
 * [CMake](https://github.com/Kitware/CMake) 3.7.2
 * [cmark](https://github.com/jgm/cmark) 0.27.1
-* [Docker Compose](https://www.docker.com/products/docker-compose) 1.10.1
+* [Docker Compose](https://www.docker.com/products/docker-compose) 1.11.2
 * [GCC](http://gcc.gnu.org) 6.3.0
 * [Git](https://git-scm.com) 2.11.1
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [GitQL](https://github.com/cloudson/gitql) 1.3.0
-* [Golang](https://golang.org) 1.7.5
+* [Golang](https://golang.org) 1.8.0
 * [Hashicorp Consul](https://www.consul.io) 0.7.3
 * [Hashicorp Terraform](https://www.terraform.io) 0.8.5
 * [Hashicorp Vault](https://www.vaultproject.io) 0.6.4
