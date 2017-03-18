@@ -94,7 +94,7 @@ yum list | grep -i direct-centos7-custom | sort
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [httpstat](https://github.com/davecheney/httpstat) 1.0.0
 * [jq](https://stedolan.github.io/jq/) 1.5
-* [LLVM, Clang, LLDB, LLD](http://www.llvm.org) 3.9.1
+* [LLVM, Clang, LLDB, LLD](http://www.llvm.org) 4.0.0
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u121 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.19.2.1
