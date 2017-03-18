@@ -88,6 +88,7 @@ yum list | grep -i direct-centos7-custom | sort
 * [GitQL](https://github.com/cloudson/gitql) 1.3.0
 * [Golang](https://golang.org) 1.8.0
 * [Hashicorp Consul](https://www.consul.io) 0.7.5
+* [Hashicorp Packer](https://www.packer.io) 0.12.3
 * [Hashicorp Terraform](https://www.terraform.io) 0.9.1
 * [Hashicorp Vault](https://www.vaultproject.io) 0.7.0
 * [HHVM](http://hhvm.com) 3.15.4
@@ -98,7 +99,6 @@ yum list | grep -i direct-centos7-custom | sort
 * [Ninja Build](https://ninja-build.org) 1.7.2
 * [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/) 8u121 + the unlimited crypto package
 * [Pandoc](http://pandoc.org) 1.19.2.1
-* [Packer](https://packer.io) 0.12.3
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
 * [PlantUML](http://plantuml.com) 8059
 * [Python](https://www.python.org) 2.7.13 and 3.6.0
