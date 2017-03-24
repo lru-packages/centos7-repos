@@ -100,8 +100,8 @@ yum list | grep -i direct-centos7-custom | sort
 * [Pandoc](http://pandoc.org) 1.19.2.1
 * [pfff](https://github.com/facebook/pfff/wiki/Main) 0.29
 * [PlantUML](http://plantuml.com) 8059
-* [Python](https://www.python.org) 2.7.13 and 3.6.0
-* [Ruby](https://www.ruby-lang.org/) 2.4.0
+* [Python](https://www.python.org) 2.7.13 and 3.6.1
+* [Ruby](https://www.ruby-lang.org/) 2.4.1
 * [server-info](https://github.com/skyzyx/server-metadata) 1.0.0
 * [Siege](https://github.com/JoeDog/siege) 4.0.0
 * [sift](https://sift-tool.org) 0.9.0
