@@ -78,19 +78,19 @@ yum list | grep -i direct-centos7-custom | sort
 * [Autoconf](http://www.gnu.org/software/autoconf/autoconf.html) 2.69
 * [Automake](https://www.gnu.org/software/automake/) 1.15
 * [Chag](https://github.com/mtdowling/chag) 1.1.4
-* [CMake](https://github.com/Kitware/CMake) 3.7.2
+* [CMake](https://github.com/Kitware/CMake) 3.8.0
 * [cmark](https://github.com/jgm/cmark) 0.27.1
 * [Docker Compose](https://www.docker.com/products/docker-compose) 1.12.0
 * [GCC](http://gcc.gnu.org) 6.3.0
 * [Git](https://git-scm.com) 2.12.0
 * [GitHub Hub](https://hub.github.com) 2.2.9
 * [GitQL](https://github.com/cloudson/gitql) 1.3.0
-* [Golang](https://golang.org) 1.8.0
+* [Golang](https://golang.org) 1.8.1
 * [Hashicorp Consul](https://www.consul.io) 0.8.0
 * [Hashicorp Packer](https://www.packer.io) 1.0.0
-* [Hashicorp Terraform](https://www.terraform.io) 0.9.1
+* [Hashicorp Terraform](https://www.terraform.io) 0.9.3
 * [Hashicorp Vault](https://www.vaultproject.io) 0.7.0
-* [HHVM](http://hhvm.com) 3.15.4
+* [HHVM](http://hhvm.com) 3.19.1
 * [hiredis](https://github.com/redis/hiredis) 0.13.3
 * [httpstat](https://github.com/davecheney/httpstat) 1.0.0
 * [jq](https://stedolan.github.io/jq/) 1.5
