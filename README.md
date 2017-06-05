@@ -58,7 +58,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 
 * [Cityfan](http://www.city-fan.org/ftp/contrib/yum-repo/rhel7/x86_64/) — The least trusted of the bunch. Provides modern cURL packages. (cURL didn't receive support for TLS 1.1/1.2 until version 7.34.0. CentOS 6 ships with 7.19.0. CentOS 7 ships with 7.29.0.)
 * [Remi](http://mirrors.mediatemple.net/remi/enterprise/7/remi/x86_64/) — _Remi_ is a member of the RedHat SCL group. He packages modern PHP builds for RedHat/CentOS.
-* [Nodesource 0.12](https://rpm.nodesource.com/pub_0.12/el/7/x86_64/), [7.x](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
+* [Nodesource 7.x](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/), [8.x](https://rpm.nodesource.com/pub_8.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 
 ## Custom-built package repos
 
