@@ -177,16 +177,16 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
-[direct-centos7-nodesource]
-name=direct-centos7-nodesource
-baseurl=https://rpm.nodesource.com/pub_0.12/el/7/x86_64/
+[direct-centos7-nodesource7]
+name=direct-centos7-nodesource7
+baseurl=https://rpm.nodesource.com/pub_7.x/el/7/x86_64/
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
-[direct-centos7-nodesource7]
-name=direct-centos7-nodesource7
-baseurl=https://rpm.nodesource.com/pub_7.x/el/7/x86_64/
+[direct-centos7-nodesource8]
+name=direct-centos7-nodesource
+baseurl=https://rpm.nodesource.com/pub_8.x/el/7/x86_64/
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
