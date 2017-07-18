@@ -149,6 +149,14 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-neo4j]
+name=direct-centos7-neo4j
+baseurl=http://yum.neo4j.org/stable/
+gpgkey=http://debian.neo4j.org/neotechnology.gpg.key
+gpgcheck=1
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-newrelic]
 name=direct-centos7-newrelic
 baseurl=https://yum.newrelic.com/pub/newrelic/el5/x86_64/
