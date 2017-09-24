@@ -199,13 +199,6 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
-[direct-centos7-openstack]
-name=direct-centos7-openstack
-baseurl=http://mirror.centos.org/centos-7/7/cloud/x86_64/openstack-liberty/
-gpgcheck=0
-enabled=1
-skip_if_unavailable=1
-
 [direct-centos7-os]
 name=direct-centos7-os
 baseurl=http://mirror.centos.org/centos-7/7/os/x86_64/
