@@ -193,8 +193,15 @@ enabled=1
 skip_if_unavailable=1
 
 [direct-centos7-nodesource8]
-name=direct-centos7-nodesource
+name=direct-centos7-nodesource8
 baseurl=https://rpm.nodesource.com/pub_8.x/el/7/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
+[direct-centos7-nodesource9]
+name=direct-centos7-nodesource9
+baseurl=https://rpm.nodesource.com/pub_9.x/el/7/x86_64/
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
@@ -227,9 +234,23 @@ gpgcheck=0
 enabled=1
 skip_if_unavailable=1
 
+[direct-centos7-postgres10]
+name=direct-centos7-postgres10
+baseurl=https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-7-x86_64
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
 [direct-centos7-postgres96-testing]
 name=direct-centos7-postgres96-testing
 baseurl=https://download.postgresql.org/pub/repos/yum/testing/9.6/redhat/rhel-7-x86_64
+gpgcheck=0
+enabled=1
+skip_if_unavailable=1
+
+[direct-centos7-postgres10-testing]
+name=direct-centos7-postgres10-testing
+baseurl=https://download.postgresql.org/pub/repos/yum/testing/10/redhat/rhel-7-x86_64
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
