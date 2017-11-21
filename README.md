@@ -48,7 +48,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 * [MySQL Tools](https://repo.mysql.com/yum/mysql-tools-community/el/7/x86_64/)
 * [New Relic](https://yum.newrelic.com/pub/newrelic/el5/x86_64/)
 * [Nginx](http://nginx.org/packages/centos/7/x86_64/)
-* [PostgreSQL 9.6](https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64)
+* [PostgreSQL 10](https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-7-x86_64)
 * [Rsyslog](http://rpms.adiscon.com/v8-stable/epel-7/x86_64/)
 * [Sensu monitoring](http://repositories.sensuapp.org/yum/7/x86_64/)
 * [VirtualBox](http://download.virtualbox.org/virtualbox/rpm/rhel/7/x86_64/)
@@ -58,7 +58,7 @@ Your criteria may look different. If you don't have criteria, and generally just
 
 * [Cityfan](http://www.city-fan.org/ftp/contrib/yum-repo/rhel7/x86_64/) — The least trusted of the bunch. Provides modern cURL packages. (cURL didn't receive support for TLS 1.1/1.2 until version 7.34.0. CentOS 6 ships with 7.19.0. CentOS 7 ships with 7.29.0.)
 * [Remi](http://mirrors.mediatemple.net/remi/enterprise/7/remi/x86_64/) — _Remi_ is a member of the RedHat SCL group. He packages modern PHP builds for RedHat/CentOS.
-* [Nodesource 7.x](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/), [8.x](https://rpm.nodesource.com/pub_8.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
+* [Nodesource 7.x](https://rpm.nodesource.com/pub_7.x/el/7/x86_64/), [8.x](https://rpm.nodesource.com/pub_8.x/el/7/x86_64/), [9.x](https://rpm.nodesource.com/pub_9.x/el/7/x86_64/) — Nodesource is a trusted member of the Node.js community.
 
 ## Custom-built package repos
 
