@@ -9,14 +9,16 @@ skip_if_unavailable=1
 [direct-newrelic]
 name=direct-newrelic
 baseurl=https://yum.newrelic.com/pub/newrelic/el5/x86_64/
-gpgcheck=0
+gpgkey=https://download.newrelic.com/548C16BF.gpg
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
 [direct-newrelic-infrastructure]
 name=direct-newrelic-infrastructure
 baseurl=http://download.newrelic.com/infrastructure_agent/linux/yum/el/7/x86_64
-gpgcheck=0
+gpgkey=http://download.newrelic.com/infrastructure_agent/gpg/newrelic-infra.gpg
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
