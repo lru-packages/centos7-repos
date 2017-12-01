@@ -1,3 +1,11 @@
+[direct-datadog]
+name=direct-datadog
+baseurl=https://yum.datadoghq.com/rpm/x86_64/
+gpgkey=https://yum.datadoghq.com/DATADOG_RPM_KEY.public
+gpgcheck=1
+enabled=1
+skip_if_unavailable=1
+
 [direct-keybase]
 name=direct-keybase
 baseurl=http://prerelease.keybase.io/rpm/x86_64/
