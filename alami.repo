@@ -40,7 +40,8 @@ skip_if_unavailable=1
 [direct-yarn]
 name=direct-yarn
 baseurl=https://dl.yarnpkg.com/rpm/
-gpgcheck=0
+gpgkey=https://dl.yarnpkg.com/rpm/pubkey.gpg
+gpgcheck=1
 enabled=1
 skip_if_unavailable=1
 
