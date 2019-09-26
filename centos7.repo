@@ -117,7 +117,7 @@ skip_if_unavailable=1
 
 [direct-centos7-gluster]
 name=direct-centos7-gluster
-baseurl=http://mirror.centos.org/centos-7/7/storage/x86_64/gluster-3.7/
+baseurl=http://mirror.centos.org/centos-7/7/storage/x86_64/gluster-3.12/
 gpgcheck=0
 enabled=1
 skip_if_unavailable=1
